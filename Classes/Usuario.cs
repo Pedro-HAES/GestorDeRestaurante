@@ -10,5 +10,7 @@ namespace GestorDeRestaurante.Classes
         public string Senha { get; set; }
         public string Telefone { get; set; }
         public EnumTipoDeUsuario TipoDeUsuario { get; set; }
+        public List<Reserva> Reservas { get; set; } = [];
+
     }
 }

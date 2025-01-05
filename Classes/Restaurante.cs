@@ -8,6 +8,8 @@
         public string Telefone { get; set; }
         public int Capacidade { get; set; }
         public string Descricao { get; set; }
+        public List<Reserva> Reservas { get; set; } = [];
+        public List<Mesa> Mesas { get; set; } = [];
 
     }
 }

@@ -7,6 +7,6 @@
         public int Capacidade { get; set; }
         public int RestauranteId { get; set; }
         public Restaurante Restaurante { get; set; }
-
+        public List<Reserva> Reservas { get; set; } = [];
     }
 }
