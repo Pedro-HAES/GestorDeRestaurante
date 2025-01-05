@@ -1,12 +1,122 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|d:\\repogithub\\gestorderestaurante\\gestorderestaurante\\classes\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|solutionrelative:classes\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|d:\\repogithub\\gestorderestaurante\\gestorderestaurante\\classes\\mesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|solutionrelative:classes\\mesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|d:\\repogithub\\gestorderestaurante\\gestorderestaurante\\classes\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|solutionrelative:classes\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|d:\\repogithub\\gestorderestaurante\\gestorderestaurante\\classes\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|solutionrelative:classes\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|d:\\repogithub\\gestorderestaurante\\gestorderestaurante\\enumeradores\\enumstatusdareserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|solutionrelative:enumeradores\\enumstatusdareserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|d:\\repogithub\\gestorderestaurante\\gestorderestaurante\\enumeradores\\enumtipodeusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|solutionrelative:enumeradores\\enumtipodeusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Classes\\Reserva.cs",
+              "RelativeDocumentMoniker": "Classes\\Reserva.cs",
+              "ToolTip": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Classes\\Reserva.cs",
+              "RelativeToolTip": "Classes\\Reserva.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T19:43:53.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mesa.cs",
+              "DocumentMoniker": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Classes\\Mesa.cs",
+              "RelativeDocumentMoniker": "Classes\\Mesa.cs",
+              "ToolTip": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Classes\\Mesa.cs",
+              "RelativeToolTip": "Classes\\Mesa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T19:40:49.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Restaurante.cs",
+              "DocumentMoniker": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Classes\\Restaurante.cs",
+              "RelativeDocumentMoniker": "Classes\\Restaurante.cs",
+              "ToolTip": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Classes\\Restaurante.cs",
+              "RelativeToolTip": "Classes\\Restaurante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T19:39:46.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Classes\\Usuario.cs",
+              "RelativeDocumentMoniker": "Classes\\Usuario.cs",
+              "ToolTip": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Classes\\Usuario.cs",
+              "RelativeToolTip": "Classes\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T19:38:12.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnumStatusDaReserva.cs",
+              "DocumentMoniker": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Enumeradores\\EnumStatusDaReserva.cs",
+              "RelativeDocumentMoniker": "Enumeradores\\EnumStatusDaReserva.cs",
+              "ToolTip": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Enumeradores\\EnumStatusDaReserva.cs",
+              "RelativeToolTip": "Enumeradores\\EnumStatusDaReserva.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T19:37:26.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnumTipoDeUsuario.cs",
+              "DocumentMoniker": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Enumeradores\\EnumTipoDeUsuario.cs",
+              "RelativeDocumentMoniker": "Enumeradores\\EnumTipoDeUsuario.cs",
+              "ToolTip": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Enumeradores\\EnumTipoDeUsuario.cs",
+              "RelativeToolTip": "Enumeradores\\EnumTipoDeUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T19:36:37.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
