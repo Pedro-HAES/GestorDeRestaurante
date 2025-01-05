@@ -7,7 +7,7 @@ namespace GestorDeRestaurante.Interfaces
         Restaurante ObtenhaPorId(int id);
         List<Restaurante> ObtenhaTodos();
         void CadastreRestaurante(Restaurante restaurante);
-        void AtualizeRestaurante(Restaurante restaurante);
+        void AtualizeRestaurante(int id,Restaurante restaurante);
         void RemovaRestaurante(int id);
         List<Restaurante> ObtenhaPorNome(string nome);
 

@@ -3,32 +3,52 @@
   "WorkspaceRootPath": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|d:\\repogithub\\gestorderestaurante\\gestorderestaurante\\servicos\\reseraservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|solutionrelative:servicos\\reseraservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|d:\\repogithub\\gestorderestaurante\\gestorderestaurante\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|solutionrelative:controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|d:\\repogithub\\gestorderestaurante\\gestorderestaurante\\servicos\\mesaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|solutionrelative:servicos\\mesaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|d:\\repogithub\\gestorderestaurante\\gestorderestaurante\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|d:\\repogithub\\gestorderestaurante\\gestorderestaurante\\servicos\\restauranteservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|solutionrelative:servicos\\restauranteservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|d:\\repogithub\\gestorderestaurante\\gestorderestaurante\\classes\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|solutionrelative:classes\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|d:\\repogithub\\gestorderestaurante\\gestorderestaurante\\servicos\\usuarioservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|solutionrelative:servicos\\usuarioservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|d:\\repogithub\\gestorderestaurante\\gestorderestaurante\\servicos\\reseraservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|solutionrelative:servicos\\reseraservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|d:\\repogithub\\gestorderestaurante\\gestorderestaurante\\classes\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|solutionrelative:classes\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|d:\\repogithub\\gestorderestaurante\\gestorderestaurante\\servicos\\restauranteservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|solutionrelative:servicos\\restauranteservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|d:\\repogithub\\gestorderestaurante\\gestorderestaurante\\interfaces\\ireserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|solutionrelative:interfaces\\ireserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|d:\\repogithub\\gestorderestaurante\\gestorderestaurante\\interfaces\\imesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|solutionrelative:interfaces\\imesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|d:\\repogithub\\gestorderestaurante\\gestorderestaurante\\servicos\\mesaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|solutionrelative:servicos\\mesaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|d:\\repogithub\\gestorderestaurante\\gestorderestaurante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|d:\\repogithub\\gestorderestaurante\\gestorderestaurante\\interfaces\\irestaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|solutionrelative:interfaces\\irestaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|d:\\repogithub\\gestorderestaurante\\gestorderestaurante\\interfaces\\imesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|solutionrelative:interfaces\\imesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|d:\\repogithub\\gestorderestaurante\\gestorderestaurante\\interfaces\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,14 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|d:\\repogithub\\gestorderestaurante\\gestorderestaurante\\classes\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|solutionrelative:classes\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|d:\\repogithub\\gestorderestaurante\\gestorderestaurante\\classes\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|solutionrelative:classes\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|d:\\repogithub\\gestorderestaurante\\gestorderestaurante\\classes\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|solutionrelative:classes\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD590FE5-2F49-4314-957C-A5C0CC5C6046}|GestorDeRestaurante.csproj|d:\\repogithub\\gestorderestaurante\\gestorderestaurante\\enumeradores\\enumstatusdareserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,38 +83,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ReservaController.cs",
+              "DocumentMoniker": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Controllers\\ReservaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReservaController.cs",
+              "ToolTip": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Controllers\\ReservaController.cs",
+              "RelativeToolTip": "Controllers\\ReservaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T21:33:42.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T21:04:44.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:55:44.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ReseraServico.cs",
               "DocumentMoniker": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Servicos\\ReseraServico.cs",
               "RelativeDocumentMoniker": "Servicos\\ReseraServico.cs",
               "ToolTip": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Servicos\\ReseraServico.cs",
               "RelativeToolTip": "Servicos\\ReseraServico.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T20:04:42.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "MesaServico.cs",
               "DocumentMoniker": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Servicos\\MesaServico.cs",
               "RelativeDocumentMoniker": "Servicos\\MesaServico.cs",
               "ToolTip": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Servicos\\MesaServico.cs",
               "RelativeToolTip": "Servicos\\MesaServico.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T20:04:30.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "RestauranteServico.cs",
               "DocumentMoniker": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Servicos\\RestauranteServico.cs",
               "RelativeDocumentMoniker": "Servicos\\RestauranteServico.cs",
               "ToolTip": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Servicos\\RestauranteServico.cs",
               "RelativeToolTip": "Servicos\\RestauranteServico.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswAcAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T20:04:21.7Z",
               "EditorCaption": ""
@@ -115,14 +166,14 @@
               "RelativeDocumentMoniker": "Servicos\\UsuarioServico.cs",
               "ToolTip": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Servicos\\UsuarioServico.cs",
               "RelativeToolTip": "Servicos\\UsuarioServico.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T20:04:10.932Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "IReserva.cs",
               "DocumentMoniker": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Interfaces\\IReserva.cs",
               "RelativeDocumentMoniker": "Interfaces\\IReserva.cs",
@@ -135,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "IMesa.cs",
               "DocumentMoniker": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Interfaces\\IMesa.cs",
               "RelativeDocumentMoniker": "Interfaces\\IMesa.cs",
@@ -143,25 +194,24 @@
               "RelativeToolTip": "Interfaces\\IMesa.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:58:04.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-05T19:58:04.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "IRestaurante.cs",
               "DocumentMoniker": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Interfaces\\IRestaurante.cs",
               "RelativeDocumentMoniker": "Interfaces\\IRestaurante.cs",
               "ToolTip": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Interfaces\\IRestaurante.cs",
               "RelativeToolTip": "Interfaces\\IRestaurante.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T19:56:31.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "IUsuario.cs",
               "DocumentMoniker": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Interfaces\\IUsuario.cs",
               "RelativeDocumentMoniker": "Interfaces\\IUsuario.cs",
@@ -169,25 +219,24 @@
               "RelativeToolTip": "Interfaces\\IUsuario.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:55:07.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-05T19:55:07.922Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "Reserva.cs",
               "DocumentMoniker": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Classes\\Reserva.cs",
               "RelativeDocumentMoniker": "Classes\\Reserva.cs",
               "ToolTip": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Classes\\Reserva.cs",
               "RelativeToolTip": "Classes\\Reserva.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T19:43:53.47Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Mesa.cs",
               "DocumentMoniker": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Classes\\Mesa.cs",
               "RelativeDocumentMoniker": "Classes\\Mesa.cs",
@@ -195,12 +244,11 @@
               "RelativeToolTip": "Classes\\Mesa.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:40:49.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-05T19:40:49.266Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Restaurante.cs",
               "DocumentMoniker": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Classes\\Restaurante.cs",
               "RelativeDocumentMoniker": "Classes\\Restaurante.cs",
@@ -208,25 +256,24 @@
               "RelativeToolTip": "Classes\\Restaurante.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:39:46.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-05T19:39:46.627Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "Usuario.cs",
               "DocumentMoniker": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Classes\\Usuario.cs",
               "RelativeDocumentMoniker": "Classes\\Usuario.cs",
               "ToolTip": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Classes\\Usuario.cs",
               "RelativeToolTip": "Classes\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T19:38:12.782Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "EnumStatusDaReserva.cs",
               "DocumentMoniker": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Enumeradores\\EnumStatusDaReserva.cs",
               "RelativeDocumentMoniker": "Enumeradores\\EnumStatusDaReserva.cs",
@@ -238,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "EnumTipoDeUsuario.cs",
               "DocumentMoniker": "D:\\RepoGitHub\\GestorDeRestaurante\\GestorDeRestaurante\\Enumeradores\\EnumTipoDeUsuario.cs",
               "RelativeDocumentMoniker": "Enumeradores\\EnumTipoDeUsuario.cs",

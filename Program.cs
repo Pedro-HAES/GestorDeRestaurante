@@ -1,4 +1,7 @@
 
+using GestorDeRestaurante.Interfaces;
+using GestorDeRestaurante.Servicos;
+
 namespace GestorDeRestaurante
 {
     public class Program
@@ -6,6 +9,8 @@ namespace GestorDeRestaurante
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+
+            builder.Services.AddScoped<IUsuario, UsuarioServico>();
 
             // Add services to the container.
 
