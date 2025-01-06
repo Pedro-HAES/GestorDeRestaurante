@@ -10,7 +10,7 @@ namespace GestorDeRestaurante.Controllers
     public class UsuarioController : ControllerBase
     {
         private readonly IUsuario _usuarioServico;
-        private readonly List<Usuario> _usuarios = new List<Usuario>();
+        private readonly List<Usuario> _usuarios = [];
 
         public UsuarioController(IUsuario usuarioServico)
         {

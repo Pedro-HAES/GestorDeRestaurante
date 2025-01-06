@@ -11,5 +11,18 @@
         public List<Reserva> Reservas { get; set; } = [];
         public List<Mesa> Mesas { get; set; } = [];
 
+        public Restaurante() { }
+
+        public Restaurante(int id, string nome, string endereco, string telefone, int capacidade, string descricao, List<Reserva>? reservas = null, List<Mesa>? mesas = null)
+        {
+            Id = id;
+            Nome = nome;
+            Endereco = endereco;
+            Telefone = telefone;
+            Capacidade = capacidade;
+            Descricao = descricao;
+            Reservas = reservas ?? [];
+            Mesas = mesas ?? [];
+        }
     }
 }
